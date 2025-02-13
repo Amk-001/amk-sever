@@ -1,4 +1,4 @@
 echo "https://server.mm404.github.io" > CNAME
 git add CNAME
-git commit -m "Added CNAME file"
+git commit -m "Add index.html file"
 git push
