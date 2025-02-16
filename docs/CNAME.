@@ -1,0 +1,4 @@
+# mmprogramming.org
+git add CNAME
+git commit -m "mm404.com"
+git push origin main
