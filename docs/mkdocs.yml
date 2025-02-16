@@ -1,0 +1,6 @@
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Syntax: syntax.md
+  - Installation: installation.md
+  - Contribute: contribute.md
